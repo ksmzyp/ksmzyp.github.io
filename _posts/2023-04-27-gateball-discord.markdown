@@ -5,7 +5,7 @@ title: "ADS 1103 Discord サーバー"
 - TOC
 {:toc}
 
-ADS 1103 Gateball Server の Discord サーバーです。  
+[ADS 1103 Gateball Server](https://ksmzyp.github.io/2023/04/16/gateball-server.html) の Discord サーバーです。  
 ランダムマッチ通知や、プレイヤーランキングに参加できます。
 
 ## サーバー招待リンク

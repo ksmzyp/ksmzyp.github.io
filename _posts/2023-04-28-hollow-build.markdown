@@ -5,7 +5,7 @@ title: "ADS hollow 導入手順"
 - TOC
 {:toc}
 
-ADS 1103 Gateball Server の利用にあたって、 ADS (hollow) の導入手順を説明します。
+[ADS 1103 Gateball Server](https://ksmzyp.github.io/2023/04/16/gateball-server.html) の利用にあたって、 ADS (hollow) の導入手順を説明します。
 
 ## 導入手順
 
