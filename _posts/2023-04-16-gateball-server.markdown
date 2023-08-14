@@ -5,7 +5,7 @@ title: "ADS 1103 Gateball Server"
 - TOC
 {:toc}
 
-遊戯王 ADS (Automatic Dueling System) 上で利用できるサーバです。    
+[ADS 1103 Gateball Client](https://ksmzyp.github.io/2023/05/28/gateball-client.html) 上で利用できるサーバです。  
 プライベートルームとランダムマッチングに対応しており、ユーザ登録は不要です。
 
 1103 ゲートボール (寒波亭ルール) に準拠しています。  
@@ -24,8 +24,7 @@ title: "ADS 1103 Gateball Server"
 ### ランダムマッチング
 
 `IP/Port`欄にそれぞれ接続情報を入力し、`部屋に入る`でランダムマッチングに参加できます。  
-ランダムマッチングはデフォルトでマッチ戦です。  
-`パスワード`欄に`S`と入力するとシングル戦で参加できます。
+ランダムマッチングはデフォルトでマッチ戦です。
 
 ### プライベートルーム
 
