@@ -10,7 +10,7 @@ title: "ADS 1103 Discord サーバー"
 
 ## サーバー招待リンク
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">当鯖のDiscordサーバーです<a href="https://t.co/tZZWyV3Op1">https://t.co/tZZWyV3Op1</a></p>&mdash; ADS 1103 Gateball Server (@YGOPro1103) <a href="https://twitter.com/YGOPro1103/status/1651443558828871682?ref_src=twsrc%5Etfw">April 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">荒らし対策のため、今後はサーバ利用にユーザ登録が必要になります。<br><br>【ユーザ登録申請手順】<br>招待リンクからDiscordサーバに参加した後、当アカウントに以下の項目を記載してDMを送ってください。<br><br>・Discordサーバのユーザ名<a href="https://t.co/tZZWyV3Op1">https://t.co/tZZWyV3Op1</a></p>&mdash; ADS 1103 Gateball Server (@YGOPro1103) <a href="https://twitter.com/YGOPro1103/status/1704000375488147660?ref_src=twsrc%5Etfw">September 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## ランダムマッチ通知
 
@@ -20,15 +20,7 @@ title: "ADS 1103 Discord サーバー"
 ## プレイヤーランキング
 
 ランダムマッチの勝敗からレートを算出するプレイヤーランキングです。  
-毎朝 5 時に集計され `#rankings` に掲載されます。
-
-### ランキング参加方法
-
-![](/assets/2023-04-27-01.png)
-
-プレイヤー名を `プレイヤー名$ユーザID` の形式にして参加できます。  
-`ユーザID` は公開されません。  
-なりすまし防止のため `ユーザID` は推測されにくいものにしてください。
+毎朝 5 時に集計され `#leaderboard` に掲載されます。
 
 ### 個人成績
 
