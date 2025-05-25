@@ -14,7 +14,7 @@ title: "ADS 1103 Gateball Viewer"
 
 ## 📥 導入方法
 
-1. 配布された  [gateball-viewer.zip](https://xgf.nu/2FcHk)  をダウンロードします。
+1. 配布された  [gateball-viewer.zip](https://32.gigafile.nu/0902-ee7d2f7912da2abb1aac91950e4d7b08e)  をダウンロードします。
 2. `ygohollow.exe`(ADS本体) があるフォルダ上に**そのまま展開（解凍）**してください。
 3. 展開後、できあがった `gateball-viewer` フォルダの中にある  
    **Gateball Viewer.exe** をダブルクリックして起動！
