@@ -24,12 +24,12 @@ Because AGBL β is currently in trial operation, its settings and procedures may
 | Item | Setting |
 | ---- | ---- |
 | Initial rating | 1500 |
-| Matchmaking range | Rating difference of ±50 |
-| Rematch against the same opponent | Available after playing 2 matches against other opponents |
+| Matchmaking range | No restriction |
+| Rematch against the same opponent | No restriction |
 
-Players who are waiting and fall within the permitted rating range are matched automatically.
+Players waiting in the matchmaking queue are matched automatically.
 
-When no eligible opponent is available, you will remain in the matchmaking queue.
+There are currently no matchmaking restrictions based on rating difference or recent match history.
 
 ## Registration
 
